@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+.packages
+.pubspec.lock
+
+# Build outputs
+build/
+.gradle/
+android/app/build/
+ios/Pods/
+*.apk
+*.aab
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
+
+# Flutter (excluding pubspec)
+flutter_project.iml
